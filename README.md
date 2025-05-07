@@ -8,4 +8,4 @@ Este projeto é pessoal de Amanda Andrade.
 
 ## Como acessar
 
-Você pode acessar o site em:
+Você pode acessar o site em: https://amanda-aandrade.github.io/ADS---Projeto-de-Extens-o-I/
